@@ -14,9 +14,11 @@ $N_{seq}$ is the M-H sampling step in sequence model, $\mathbf{s}^{GT}$ is the n
 ![avatar](https://github.com/2024-anonymous/ICML2024_rebuttal/blob/main/Training.png)
 ### ReverseDiffusion
 
-
+![avatar](https://github.com/2024-anonymous/ICML2024_rebuttal/blob/main/ReverseDiffusion.png)
 ### DesignSequence
 
-
+![avatar](https://github.com/2024-anonymous/ICML2024_rebuttal/blob/main/DesignSequence.png)
 ### MHSampler
 $\psi_s$ and $\psi_p$ represent the conservation bias and pairwise coupling terms from the MRF model.
+
+![avatar](https://github.com/2024-anonymous/ICML2024_rebuttal/blob/main/MHSampler.png)
