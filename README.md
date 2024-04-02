@@ -22,3 +22,7 @@ $N_{seq}$ is the M-H sampling step in sequence model, $\mathbf{s}^{GT}$ is the n
 $\psi_s$ and $\psi_p$ represent the conservation bias and pairwise coupling terms from the MRF model.
 
 ![avatar](https://github.com/2024-anonymous/ICML2024_rebuttal/blob/main/MHSampler.png)
+
+## Overview
+We update our overview of CarbonNovo
+![avatar](https://github.com/2024-anonymous/ICML2024_rebuttal/blob/main/overview_new.png)
