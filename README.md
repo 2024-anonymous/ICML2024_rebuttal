@@ -24,5 +24,5 @@ $\psi_s$ and $\psi_p$ represent the conservation bias and pairwise coupling term
 ![avatar](https://github.com/2024-anonymous/ICML2024_rebuttal/blob/main/MHSampler.png)
 
 ## Overview
-We update our overview of CarbonNovo
-![avatar](https://github.com/2024-anonymous/ICML2024_rebuttal/blob/main/overview_new.png)
+We update the overview of CarbonNovo.
+![avatar](https://github.com/2024-anonymous/ICML2024_rebuttal/blob/main/overview_new.jpg)
